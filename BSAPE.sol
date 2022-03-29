@@ -1,3 +1,16 @@
+// _,_
+//    .--.  .-"     "-.  .--.
+//   / .. \/  .-. .-.  \/ .. \
+//  | |  '|  /   Y   \  |'  | |
+//  | \   \  \ 0 | 0 /  /   / |
+//   \ '- ,\.-"`` ``"-./, -' /
+//    `'-' /_   ^ ^   _\ '-'`
+//        |  \._   _./  |
+//        \   \ `~` /   /
+//         '._ '-=-' _.'
+//             '---'
+// WEBSITE: safuape.finance
+// TELEGRAM: https://t.me/SafuApeETH
 // SPDX-License-Identifier: Unlicensed
 pragma solidity ^0.8.4;
 
